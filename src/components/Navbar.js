@@ -10,7 +10,7 @@ function Navbar() {
                 <Link className='top-ten' to="/top-10">Top 10</Link>
             </li>
             <li>
-                <Link className='contact' to="contect">Contact</Link>
+                <Link className='contact' to="/contact">Contact</Link>
             </li>
         </ul>
     </nav>
